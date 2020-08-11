@@ -1,4 +1,4 @@
-# vuetest
+# vue-mybatis (bookManage system - frontend)
 
 ## Project setup
 ```
